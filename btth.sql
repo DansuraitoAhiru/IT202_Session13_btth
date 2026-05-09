@@ -43,7 +43,7 @@ VALUES
 
 -- Biến cục bộ cần dùng:
 -- v_actual_price là biến lưu giá trị của price(giá dịch vụ) từ bảng Services
--- v_status là biến lưu giá trị của status(trạng thái ví) tuwg bảng Wallets
+-- v_status là biến lưu giá trị của status(trạng thái ví) từ bảng Wallets
 -- v_balance là biến lưu giá trị của balance(số dư ví) từ bảng Wallets
 
 -- Phần B: code
